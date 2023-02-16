@@ -7,6 +7,7 @@ public class demo {
         System.out.println("update");
         System.out.println("本地库commit");
         System.out.println("我修改了");
+        int a = 2 + 3;
 
     }
 }
